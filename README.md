@@ -1,3 +1,3 @@
 #  CovidDataProject
 
-This is an SQL COVID-19 Data Exploration Project.
+In this project, I used SQL queries to explore COVID-19 Data.
